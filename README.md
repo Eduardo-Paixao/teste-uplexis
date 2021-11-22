@@ -2,23 +2,13 @@
 
 ## Project setup
 ```
-yarn install
-```
+Orientações para executar o projeto:
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+- Após clonar o repositório deve ser executado o comando yarn install ou npm install no terminal ou no powerShell abertos dentro do diretório do projeto para instalar todas as dependências do projeto.
 
-### Compiles and minifies for production
-```
-yarn build
-```
+-Quando a instalação de dependências terminar, ainda no terminal ou no powerShell deve ser executado o comando yarn serve ou npm serve para executar o projeto.
 
-### Lints and fixes files
-```
-yarn lint
-```
+-Agora com todas as dependências instaladas e com o projeto rodando para visualizar a aplicação basta acessar a url localhost:8080/ no navegador de sua preferência.
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
