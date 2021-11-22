@@ -54,7 +54,6 @@ export default {
   components:{Cards},
   methods: {
     filterCategory(key) {
-      console.log(key);
       this.cardSelected = key
     },
   },
